@@ -1,3 +1,5 @@
+alert('Открывайте сайт только в формате iPad 1024 768')
+
 let slider = document.querySelector('.wrapper__list')
 document.addEventListener('touchstart', down)
 document.addEventListener('touchend', up)
